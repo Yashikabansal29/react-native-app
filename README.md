@@ -1,1 +1,2 @@
 # react-native-app
+A currency converter is a digital tool or application that allows users to convert the value of one currency into another based on real-time or preset exchange rates. It is commonly used for travel, business, or trading purposes. By inputting an amount, selecting the source and target currencies, and applying the current exchange rate, the converter calculates the equivalent value instantly.
